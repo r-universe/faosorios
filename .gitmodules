@@ -14,3 +14,13 @@
 	url = https://github.com/faosorios/l1pack
 	shallow = true
 	registered = true
+[submodule "MVT"]
+	path = MVT
+	url = https://github.com/cran/MVT
+	shallow = true
+	registered = true
+[submodule "SpatialPack"]
+	path = SpatialPack
+	url = https://github.com/cran/SpatialPack
+	shallow = true
+	registered = true
