@@ -1,26 +1,17 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fastmatrix"]
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "L1pack"]
 	path = L1pack
 	url = https://github.com/faosorios/l1pack
-	shallow = true
-	registered = true
 [submodule "MVT"]
 	path = MVT
 	url = https://github.com/cran/MVT
-	shallow = true
-	registered = true
 [submodule "SpatialPack"]
 	path = SpatialPack
 	url = https://github.com/cran/SpatialPack
-	shallow = true
-	registered = true
