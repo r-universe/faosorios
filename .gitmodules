@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fastmatrix"]
-	path = fastmatrix
-	url = https://github.com/faosorios/fastmatrix
-	subdir = pkg
 [submodule "L1pack"]
 	path = L1pack
 	url = https://github.com/faosorios/l1pack
@@ -15,3 +11,7 @@
 [submodule "SpatialPack"]
 	path = SpatialPack
 	url = https://github.com/cran/SpatialPack
+[submodule "fastmatrix"]
+	path = fastmatrix
+	url = https://github.com/faosorios/fastmatrix
+	subdir = pkg
