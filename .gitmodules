@@ -15,3 +15,6 @@
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
 	subdir = pkg
+[submodule "india"]
+	path = india
+	url = https://github.com/cran/india
