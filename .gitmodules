@@ -7,7 +7,7 @@
 	url = https://github.com/faosorios/l1pack
 [submodule "MVT"]
 	path = MVT
-	url = https://github.com/cran/MVT
+	url = https://github.com/faosorios/mvt
 [submodule "SpatialPack"]
 	path = SpatialPack
 	url = https://github.com/cran/SpatialPack
