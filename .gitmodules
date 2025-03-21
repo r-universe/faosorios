@@ -10,7 +10,7 @@
 	url = https://github.com/faosorios/mvt
 [submodule "SpatialPack"]
 	path = SpatialPack
-	url = https://github.com/cran/SpatialPack
+	url = https://github.com/faosorios/spatialpack
 [submodule "fastmatrix"]
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
