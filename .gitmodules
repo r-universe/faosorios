@@ -17,4 +17,5 @@
 	subdir = pkg
 [submodule "india"]
 	path = india
-	url = https://github.com/cran/india
+	url = https://github.com/faosorios/india
+	subdir = pkg
